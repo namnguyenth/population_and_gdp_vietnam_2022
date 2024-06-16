@@ -19,3 +19,8 @@ Reference to create this template.
 |:------------------------------------------|:--------------------------|
 |[Power BI Desktop](https://powerbi.microsoft.com/en-us/downloads/)|Template|
 <br>
+
+## Model view
+
+![image](https://github.com/namnguyenth/population_and_gdp_vietnam_2022/assets/75153337/1d3e9b0e-e059-45d7-a52b-9a80a26eb31b)
+
